@@ -35,6 +35,7 @@ a{
 
 /* sources https://unsplash.com/photos/c9OCWLka764 */
 body {
+  background-color: green;
   font-family: 'Poppins', sans-serif;
   display: flex;
   align-items: center;
