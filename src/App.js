@@ -1,12 +1,11 @@
 import { useState } from "react";
 import Tasks from "./components/Tasks";
 import Header from "./components/Header";
-// import './index.css'
+import './index.css'
 
 
 const App = () => {
   const [tasks, setTasks] = useState([
-    [
       {
         "id": 1,
         "text": "test",
@@ -27,7 +26,7 @@ const App = () => {
         "id": 4
       }
     ]
-      ])
+      )
     
   return (
     <div className="container">
