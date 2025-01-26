@@ -14,5 +14,5 @@ const Task = ({task, onDelete, onToggle}) => {
     </div> 
   )
 }
-//! 4:49:00
+
 export default Task
