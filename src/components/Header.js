@@ -6,6 +6,7 @@ const Header = ({ title, onAdd, showAdd }) => {
     <header className='header'>
       {/* <h1 style={{ color: 'red', backgroundColor: 'yellow' }}>{title}</h1> */}
         <h1>Task Tracker</h1>
+        <h2>Let's get it!</h2>
         <Button 
         color= {showAdd ? 'red' : 'green'}
         text= {showAdd ? 'Close' : 'Add'} 

@@ -5,31 +5,31 @@
       "text": "test",
       "other": "no-show",
       "day": "monday",
-      "reminder": true
-    },
-    {
-      "text": "Test4",
-      "day": "Wednesday",
-      "reminder": true,
-      "id": "3"
+      "reminder": false
     },
     {
       "id": "9b63",
       "text": "This is working!",
       "day": "Weee day",
-      "reminder": true
-    },
-    {
-      "id": "2f7f",
-      "text": "dddddddd",
-      "day": "ddddddddddd",
-      "reminder": true
-    },
-    {
-      "id": "f5fb",
-      "text": "ww",
-      "day": "www",
       "reminder": false
+    },
+    {
+      "id": "38e1",
+      "text": "This work?",
+      "day": "Yep!",
+      "reminder": false
+    },
+    {
+      "id": "8789",
+      "text": "Need moar stuffs",
+      "day": "Sunday",
+      "reminder": false
+    },
+    {
+      "id": "a499",
+      "text": "Needs moar?",
+      "day": "How much more?",
+      "reminder": true
     }
   ]
 }
