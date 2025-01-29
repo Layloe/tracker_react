@@ -36,7 +36,7 @@ const AddTask = ({onAdd}) => {
             type="text" 
             placeholder="Add Day & Time" 
             value = {day}
-            color="black"
+            
             onChange={(e) => setDay(e.target.value)}
             />
         </div>

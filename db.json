@@ -1,13 +1,6 @@
 {
   "tasks": [
     {
-      "id": "1",
-      "text": "test",
-      "other": "no-show",
-      "day": "monday",
-      "reminder": false
-    },
-    {
       "id": "9b63",
       "text": "This is working!",
       "day": "Weee day",
@@ -17,7 +10,7 @@
       "id": "38e1",
       "text": "This work?",
       "day": "Yep!",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": "8789",
@@ -29,7 +22,61 @@
       "id": "a499",
       "text": "Needs moar?",
       "day": "How much more?",
+      "reminder": false
+    },
+    {
+      "id": "358e",
+      "text": "I need to fix this reminder thing",
+      "day": "Wednesday ",
+      "reminder": false
+    },
+    {
+      "id": "0294",
+      "text": "Wash car",
+      "day": "asap",
       "reminder": true
+    },
+    {
+      "id": "291f",
+      "text": "reminder styling or change what the feature does",
+      "day": "",
+      "reminder": false
+    },
+    {
+      "id": "1863",
+      "text": "icon centering",
+      "day": "",
+      "reminder": false
+    },
+    {
+      "id": "d389",
+      "text": "completed animation",
+      "day": "",
+      "reminder": false
+    },
+    {
+      "id": "c2ef",
+      "text": "pulse animatio",
+      "day": "",
+      "reminder": false
+    },
+    {
+      "id": "312f",
+      "text": "task bubble styling ",
+      "day": "",
+      "reminder": false
+    },
+    {
+      "id": "75d4",
+      "text": "love the font need to save the name",
+      "day": "",
+      "reminder": false
+    },
+    {
+      "id": "a4e1",
+      "text": "task time stamp/day ",
+      "day": "",
+      "reminder": false
     }
   ]
 }

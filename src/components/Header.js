@@ -8,7 +8,7 @@ const Header = ({ title, onAdd, showAdd }) => {
         <h1>Task Tracker</h1>
         <h2>Let's get it!</h2>
         <Button 
-        color= {showAdd ? 'red' : 'green'}
+        color= {showAdd ? 'red' : 'blue'}
         text= {showAdd ? 'Close' : 'Add'} 
         onClick = {onAdd} 
         />
